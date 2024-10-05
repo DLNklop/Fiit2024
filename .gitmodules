@@ -1,0 +1,3 @@
+[submodule "GoodbyeDPI"]
+	path = GoodbyeDPI
+	url = git@github.com:ValdikSS/GoodbyeDPI.git
